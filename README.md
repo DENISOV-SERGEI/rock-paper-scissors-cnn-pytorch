@@ -168,6 +168,7 @@ notebook/rock_paper_scissors_resnet.ipynb
 - демонстрации навыков работы с PyTorch
 - практического понимания и применения transfer learning
 
-```markdown
+---
+
 ## 📄 License
 This project is provided for educational purposes.
