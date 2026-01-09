@@ -1,4 +1,7 @@
-# 🪨✂️📄 Rock-Paper-Scissors Image Classification  
+# 🪨✂️📄 Rock-Paper-Scissors Image Classification
+Классификация изображений «камень–ножницы–бумага» с использованием CNN.
+В проекте сравнивается обучение ResNet-18 с нуля и fine-tuning предобученной модели.
+
 ### Fine-tuning ResNet-18 with PyTorch
 
 ## 📌 Описание проекта
