@@ -133,3 +133,15 @@ rock-paper-scissors-resnet/
 ### 1. Установить зависимости
 ```bash
 pip install -r requirements.txt
+```
+
+### 2. Задать Kaggle API ключ
+
+Для загрузки датасета используется **Kaggle API**.
+
+**Варианты настройки:**
+- загрузить файл `kaggle.json` в Google Colab  
+- или поместить файл локально в директорию:
+  ```bash
+  ~/.kaggle/
+```
