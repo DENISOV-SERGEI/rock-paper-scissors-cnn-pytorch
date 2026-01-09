@@ -145,3 +145,8 @@ pip install -r requirements.txt
   ```bash
   ~/.kaggle/
 ```
+### 3. Запустить ноутбук
+
+Открой файл:
+```text
+notebook/rock_paper_scissors_resnet.ipynb
