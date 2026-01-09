@@ -151,3 +151,4 @@ pip install -r requirements.txt
 Открой файл:
 ```text
 notebook/rock_paper_scissors_resnet.ipynb
+```
